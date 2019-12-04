@@ -15,6 +15,6 @@ while (i < mass.length) {
 	}
 	i++;
 }
-console.log("Total Fuel For Part B = " + fuel1);
+console.log("Total Fuel For Part A = " + fuel1);
 console.log("Total Fuel For Part B = " + fuel2);
 
